@@ -2,8 +2,6 @@
 layout: post
 title:  "As Good As You Can"
 author: Adam Halbur
-categories: jekyll
-permalink: /:categories
 ---
 ![The PA Model](https://c1.staticflickr.com/5/4864/32592584538_ce0d126e0b_h.jpg)
 
