@@ -14,7 +14,7 @@ dilly-dally
 I shall build a fire in the hearth between her thighs  
 
 ----------------------------------
-*Translated from [Seascape][sea-link] by Shinkichi Takahashi*
+*Translated from* [Seascape][sea-link] *by Shinkichi Takahashi*
 
 ![](https://c1.staticflickr.com/5/4869/46420463282_2d9268c86a_h.jpg)
 

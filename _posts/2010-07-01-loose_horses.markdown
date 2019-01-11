@@ -15,7 +15,7 @@ fences nowhere.
 
 ![](https://c1.staticflickr.com/5/4804/32592545138_cd422751cb_k.jpg)
 
-*The poem above is from my book of poems [Poor Manners][poor-link], which made it to the desk of [Jim Harrison][jim-link]. He wrote back October 29, 2009, "Dear Adam Halbur, After six months of drafting a novel I sorted the piles of mumble-jumble on my desk and uncovered your wonderful book of poems which at first intrigued me of my Swede immigrant relatives who farmed in Mecosta County. The poems are on the money as they say. I go to drown in often unpleasant memories. I note that you are in Japan?  Always wondered why they are frightened of garlic? --Yrs. Jim"*  
+*The poem above is from my book* [Poor Manners][poor-link]*, which made it to the desk of [Jim Harrison][jim-link]. He wrote back October 29, 2009, "Dear Adam Halbur, After six months of drafting a novel I sorted the piles of mumble-jumble on my desk and uncovered your wonderful book of poems which at first intrigued me of my Swede immigrant relatives who farmed in Mecosta County. The poems are on the money as they say. I go to drown in often unpleasant memories. I note that you are in Japan?  Always wondered why they are frightened of garlic? --Yrs. Jim"*  
 
 *I also sent the book to my much admired mentor [Heather McHugh][mchugh-link] who emailed back January 24, 2010, “I didn’t get the book–not sure why–I’ve been all over the map–” which made me laugh as according to her wit you could take this comment at least one of two ways.*  
 

@@ -36,7 +36,7 @@ should I say I think I was a real demon at times
 and still they you know”  
 
 ----------------------------------
-*First published in [BlazeVox][blaze-link]*
+*First published in* [BlazeVox][blaze-link]
 
 ![](https://c1.staticflickr.com/8/7918/45552298855_abd9cd73da_b.jpg)
 

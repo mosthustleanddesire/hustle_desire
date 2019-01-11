@@ -34,6 +34,6 @@ crumpled packs to the blue of the bay.
 
 ------------------------------------
 
-*First published this day in a little Pacific Coast rag called **Minus Tides***
+*First published this day in a little Pacific Coast rag called* Minus Tides
 
 ![](https://c1.staticflickr.com/8/7848/45759933694_138f3edd05_z.jpg)

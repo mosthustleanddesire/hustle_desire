@@ -11,6 +11,6 @@ The English word “culture” itself has culinary roots, in the Latin *cultus*,
 
 ---------------------------------
 
-*This etymological digging was excavated from "Cultural Perversion: Monsters, myths and man's becoming" written for **Metropolis**, Tokyo, Issue 940.*
+*This etymological digging was excavated from "Cultural Perversion: Monsters, myths and man's becoming" written for* Metropolis, *Tokyo, Issue 940.*
 
 ![](https://c1.staticflickr.com/5/4821/31543441327_b0f1c5e6fa_k.jpg)
