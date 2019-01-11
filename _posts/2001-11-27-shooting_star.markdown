@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Way Back When"
+title: "Gone like a shooting star"
 author: Adam Halbur
 ---
-
-*A piece I wrote for the* [Stearns-Morrison Enterprise][Stearns-link]*, November 27, 2001*
-
-**Editorial: Gone like a shooting star**
 
 Got up this morning, Sunday, Nov. 18 at 3:45 because I heard something about a meteor shower around 4 due to passing comet debris. I looked out the window to see if the sky was clear but couldn't really tell with orange halogens shining up and down the street. So I put on my shoes and jacket.
 
@@ -41,6 +37,9 @@ The constellations began to disappear and the sky slowly turned a grayish hue. T
 I started to think that I should go in before someone thought I was crazy for staring at the sky. Clouds were moving in anyway. But before I turned, I glimpsed my 591st meteor of the night, or morning, between the last two stars on the western horizon. Just colorless white poofs like parallel jet trails. Only a hundred times faster.
 
 That was seven o'clock in the morning. Now it's eight and I'm tired, but I can't help regret that I didn't drive out to a field or the Great Plains and stay up the whole night to count more. Reports from Japan were that over a thousand could be seen there. Other accounts claimed it was the best show in decades. But like autumn, the shooting stars are gone and the sky, glum. The scent of snow is blowing in from the northwest.
+
+------------------------------------
+*A piece I wrote for the* [Stearns-Morrison Enterprise][Stearns-link]*
 
 ![](https://c1.staticflickr.com/8/7858/46414177962_346e09d841_k.jpg)
 
