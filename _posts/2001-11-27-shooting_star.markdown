@@ -39,7 +39,7 @@ I started to think that I should go in before someone thought I was crazy for st
 That was seven o'clock in the morning. Now it's eight and I'm tired, but I can't help regret that I didn't drive out to a field or the Great Plains and stay up the whole night to count more. Reports from Japan were that over a thousand could be seen there. Other accounts claimed it was the best show in decades. But like autumn, the shooting stars are gone and the sky, glum. The scent of snow is blowing in from the northwest.
 
 ------------------------------------
-*A piece I wrote for the* [Stearns-Morrison Enterprise][Stearns-link]*
+*A piece I wrote for the* [Stearns-Morrison Enterprise][Stearns-link]
 
 ![](https://c1.staticflickr.com/8/7858/46414177962_346e09d841_k.jpg)
 
