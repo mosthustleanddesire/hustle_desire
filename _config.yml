@@ -16,10 +16,9 @@
 title: Most Hustle & Desire
 email: mosthustleanddesire@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "I'm the problem solver.
+  Snoop Dogg sez, "I'm the problem solver.
   I'm the answer.
   I'm what you need."
-  Snoop Dogg
 baseurl: "hustle_desire" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

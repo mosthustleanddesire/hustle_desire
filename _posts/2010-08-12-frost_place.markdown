@@ -19,7 +19,7 @@ And you’ll hear this conversation many times and not be noticed by many people
 ----------------------------------
 *An excerpt from a piece I wrote this day at [The Frost Place][frost-link] and titled "Letter to a Poet," later published at* [Verse Wisconsin][verse-link] *and in* [Local Ground(s): Midwest Poetics][cowfeather-link].  
 
-*While I was resident here for a modest collection of poems, [Poor Manners][poor-link], the place has hosted extraordinary writers from [Katha Pollitt][pollitt-link] and [Robert Hass][hass-link] to [Laura Kasischke][kasischke-link] and [Major Jackson][major-link].*  
+*While I was resident here for a modest collection of poems,* [Poor Manners][poor-link], *the place has hosted extraordinary writers from [Katha Pollitt][pollitt-link] and [Robert Hass][hass-link] to [Laura Kasischke][kasischke-link] and [Major Jackson][major-link].*  
 
 *I also got to hang with some other contemporary mothers of verse: [John Murillo][murillo-link], [Greg Pardlo][pardlo-link] and [Blas Falconer][blas-link].*
 
