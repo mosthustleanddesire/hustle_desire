@@ -3,7 +3,7 @@ layout: post
 title:  "As Good As You Can"
 author: Adam Halbur
 ---
-![The PA Model](https://c1.staticflickr.com/5/4864/32592584538_ce0d126e0b_h.jpg)
+![The PA Model](https://c1.staticflickr.com/5/4811/39820430443_0c443ea7cc_h.jpg)
 
 *As Good As You Can, As Professionally As You Can* is now showing!   
 
