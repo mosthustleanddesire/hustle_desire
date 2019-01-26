@@ -8,7 +8,7 @@ author: Adam Halbur
 *As Good As You Can, As Professionally As You Can* is now showing!   
 
 [Physician Assistant program at Hardin-Simmons University][Hardin-link], Abilene, Texas, Spring 2019  
-[International Association of Physician Associate Educators][IAPAE-link], Lusaka, Zambia, October 4-7, 2018  
+[International Academy of Physician Associate Educators][IAPAE-link], Lusaka, Zambia, October 4-7, 2018  
 [Indian Association of Physician Assistants][IAPA-link], Coimbatore, India, September 1-2, 2018  
 
 This film takes a look at passionate practitioners of the physician assistant model around the world. Check out a rough edit of [the film intro][as_good-link]. Full film to be released soon.
