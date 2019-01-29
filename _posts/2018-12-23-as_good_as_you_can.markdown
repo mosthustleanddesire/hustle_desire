@@ -3,20 +3,14 @@ layout: post
 title:  "As Good As You Can"
 author: Adam Halbur
 ---
+"It's going to sound really cliché ... but it really is I want to help people. I'm from a rural community in Limpopo; it's one of the most rural provinces in SA [South Africa]. There's one clinic in perhaps a 60km radius. So it's very difficult for people to get health care, and the rate of HIV is so high because, number one, people cannot afford to go to the clinics every month to get their ARVs [anitretroviral drugs]. Number two, there's no ARVs; you get your last money and you go to the clinic and there's no medication. But if I'm in the medical faculty, I can actually be able to get people to kind of recognize these problems because I am on the inside. It's very difficult to get people to engage, to donate and voice out if you're on the outside, but from the inside, people actually take you seriously. So it's more about me getting people to be helped than me helping -- two hands are not really much, but if I get more people to engage, it can really benefit a lot of people's lives."
+
+---------------------------------
+*Interrupting their discussion on the latest episode of* Game of Thrones, *I talked to a group of first-year students in the Bachelor of Clinical Medical Practice program at Wits University, Johannesburg, South Africa for a film on the physician associate model around the world. The above quote was published in an [an article][article-link] by the [Indian Association of Physician Assistants][IAPA-link]. The [film][film-link] premiered at the [International Academy of Physician Associate Educators][IAPAE-link] conference, Lusaka, Zambia, October 4-7, 2018.*
+
 ![The PA Model](https://c1.staticflickr.com/5/4811/39820430443_0c443ea7cc_h.jpg)
 
-*As Good As You Can, As Professionally As You Can* is now showing!   
-
-[Physician Assistant program at Hardin-Simmons University][Hardin-link], Abilene, Texas, Spring 2019  
-[International Academy of Physician Associate Educators][IAPAE-link], Lusaka, Zambia, October 4-7, 2018  
-[Indian Association of Physician Assistants][IAPA-link], Coimbatore, India, September 1-2, 2018  
-
-This film takes a look at passionate practitioners of the physician assistant model around the world. Check out a rough edit of [the film intro][as_good-link]. Full film to be released soon.
-
-The physician assistants of India also published [an article][article-link] about my observations while making the film.
-
-[Hardin-link]: https://www.hsutx.edu/academics/graduate-programs/physician-assistant-program/
+[article-link]: http://www.academia.edu/37370439/Of_Chickens_and_Coyotes_a_poets_take_on_the_physician_assistant
 [IAPAE-link]: https://iapae.com/
 [IAPA-link]:  http://www.iapaonline.org/
-[as_good-link]: https://www.youtube.com/watch?v=c0nVvgOlz4U
-[article-link]: http://www.academia.edu/37370439/Of_Chickens_and_Coyotes_a_poets_take_on_the_physician_assistant
+[film-link]: https://mosthustleanddesire.github.io/as_good_as_you_can/
