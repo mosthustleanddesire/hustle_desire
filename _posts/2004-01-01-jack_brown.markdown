@@ -19,4 +19,4 @@ Expecting the frothy glass I was accustomed to in the brewery city of Milwaukee,
 ----------------------------------------
 *An early writing job of mine was to type and edit a local doctor's autobiography, a well-meant, often self-centered chronology. Though every life is its own wonder and feat, perhaps there is an argument to be made for oblivion.*
 
-![](https://c1.staticflickr.com/5/4839/46956073251_7f69b81e71_z.jpg)
+![](https://c1.staticflickr.com/8/7825/46956075471_4fe2ec3885_z.jpg)
