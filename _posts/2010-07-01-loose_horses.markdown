@@ -11,7 +11,7 @@ flaring, manes shaking loose. Until
 at the abandoned road, they brake:  
 fences nowhere.  
 
-----------------------------------
+----------------------------------  
 
 ![](https://c1.staticflickr.com/5/4804/32592545138_cd422751cb_k.jpg)
 
