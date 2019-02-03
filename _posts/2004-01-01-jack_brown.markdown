@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jack Brown"
-author: Adam Halbur
+author: Adam Halbur, editor
 ---
 
 "It was rare that I escaped the confines of Columbia when one fine fall Saturday in October 1943, demerit free, I was given a 12-hour pass starting at noon. I wasted no time in abandoning ship and hotfooting it over to 128th Street to catch the subway bound for Times Square, the heart of the great U.S. metropolis.  
@@ -17,6 +17,6 @@ Inside was just as crowded with lines at each watering hole. The drinkers were 9
 Expecting the frothy glass I was accustomed to in the brewery city of Milwaukee, I was given a bottle with a glass over the top, passed through three sets of hands. I handed over two dollars, which passed back through the same hands. The bartender grabbed the bills and, stuffing one into his pocket and ringing up the other, ignored my outstretched palm. It was one for the bar, one for the bartender and no change for me, the young would-be officer."  
 
 ----------------------------------------
-*An early writing job of mine was to type and edit a local doctor's autobiography, a well-meant, often self-centered chronology. Though every life is its own wonder and feat, perhaps there is an argument to be made for oblivion.*
+*An early writing gig of mine was to type and edit a devoted local doctor's autobiography, a well-meant, albeit shallow chronology, including a family trip to see his older sister in Hollywood, service in the Pacific during WWII aboard the USS Kern-AOG2 (which probably provided the fuel for the Enola Gay), being the physician for U.S. astronaut Deke Slayton's parents, grisly off-color accounts as a county coroner, and other community and family events. Though every life can be a wonder and feat, perhaps there is an argument to be made for oblivion.*
 
 ![](https://c1.staticflickr.com/8/7825/46956075471_4fe2ec3885_z.jpg)
