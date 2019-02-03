@@ -4,7 +4,7 @@ title:  "Exploring Our World"
 author: Adam Halbur
 ---
 
-![](https://c1.staticflickr.com/8/7855/46966961431_2ef5e1d07f_k.jpg)
+![](https://c1.staticflickr.com/5/4887/46053156555_9faeba7b2d_h.jpg)
 
 Who were the first people to settle the Americas? How did they get there?  
 
