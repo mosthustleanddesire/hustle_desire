@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An American Species"
+title:  "An American species"
 author: Adam Halbur
 ---
 
