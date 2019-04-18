@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rejected Poem"
+title: "Rejected poem"
 author: Adam Halbur
 ---
 
