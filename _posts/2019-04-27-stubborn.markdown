@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Stubborn"
+author: Adam Halbur
+---
+![Ellen Bryant Voigt](https://live.staticflickr.com/65535/47801200551_6b4ea1a5c0_h.jpg)
+
+*A still from the [video][stubborn-link] edited for the [Spring 2019 EBV Scholarship Event][event-link] in which MacArthur fellow and Pulitzer nominee Ellen Bryant Voigt talks about her life, work and hope for the world.*
+
+[stubborn-link]: https://www.youtube.com/watch?v=zWTZuaNUSlI&feature=youtu.be
+[event-link]: https://friendsofwriters.org/spring-2019-ebv-scholarship-event/
