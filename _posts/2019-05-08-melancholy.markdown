@@ -27,9 +27,9 @@ it calls and has called more than once...
 You are alone. Your bedding whitens with cold.  
 Deeper grows the night. The heavens heavy in cloud.  
 With resonate hammering blood pounds against the heart,  
-and beyond the ravines the forest continues out of sight...  
+and beyond ravines the forest continues out of sight...  
 
 --------------------------------------
-*From Andrei Platonov's* Blue Depths.
+*From Andrei Platonov's* Blue Depths, *part two, translated with the graciousness of Dmitri Manin*
 
 ![Book and lamp](https://live.staticflickr.com/65535/32857670307_2db8a0284f_k.jpg)
