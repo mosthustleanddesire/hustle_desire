@@ -11,6 +11,6 @@ The English word “culture” itself has culinary roots, in the Latin *cultus*,
 
 ---------------------------------
 
-*This etymological digging was excavated from "Cultural Perversion: Monsters, myths and man's becoming" written for* Metropolis, *Tokyo, Issue 940.*
+*This etymological digging was excavated from "Cultural Perversion: Monsters, myths and man's becoming" written for* Metropolis, *Tokyo, Issue 940. I later learned that the "spoon" on the right side of "ka* (化)*" is actually a Japanese corruption of the original Chinese character of a an upside-down man, falling down. Yet this still resonates in the west with the Biblical account of "the fall" – man being thrown out of paradise to farm and hence develop culture and dependence on God. To take it further, Christ then returned us our freedom, to take responsibility for our acts.*
 
 ![](https://c1.staticflickr.com/5/4821/31543441327_b0f1c5e6fa_k.jpg)
