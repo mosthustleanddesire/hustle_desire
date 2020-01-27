@@ -9,7 +9,10 @@ Only one question, one test of intelligence remains: Can a computer love? When I
 ----------------------------------
 *An excerpt from an [article][AI-link] in response to the misuse of words such as "think," "learn," and "intelligence" to describe computers, and yet the lack of appreciation for the impact of these mere tools. On February 26 and 27, 2019, a conference of the Council of Europe,* [Governing the Game Changer - Impacts of artificial intelligence development on human rights, democracy and the rule of law][govern-link], *was held in Helsinki, Finland. This conference lays out what is at stake.*
 
+*All work is self-funded, so please donate at* [PayPal][pay-link].
+
 ![](https://c1.staticflickr.com/8/7828/32592556068_4f0ba2ba63_h.jpg)
 
 [AI-link]: http://www.academia.edu/32530086/The_intelligence_in_artificial_intelligence_a_matter_of_poetics
 [govern-link]:https://vimeo.com/322093674
+[pay-link]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4EMQHUTX7XHHA&currency_code=USD&source=url
