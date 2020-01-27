@@ -10,4 +10,4 @@ If you like what you find here, please feel free to donate on [PayPal][donate-li
 
 ![Like a fully suited-up aspiring astronaut sprinting down the road in the dark as if it were the cosmos.](http://bestanimations.com/Earth&Space/astronaut-clown-running-animation-2.gif)
 
-[donate-link]:https://paypal.me/mosthustleanddesire?locale.x=en_US
+[donate-link]:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4EMQHUTX7XHHA&currency_code=USD&source=url
