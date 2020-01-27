@@ -8,9 +8,12 @@ author: Adam Halbur
 ---------------------------------
 *Interrupting their discussion on the latest episode of* Game of Thrones, *I talked to a group of first-year students in the Bachelor of Clinical Medical Practice program at Wits University, Johannesburg, South Africa for a film on the physician associate model around the world. The above quote was published in an [article][article-link] by the [Indian Association of Physician Assistants][IAPA-link]. The [film][film-link] premiered at the [International Academy of Physician Associate Educators][IAPAE-link] conference, Lusaka, Zambia, October 4-7, 2018.*
 
+*All work is self-funded, so please donate at* [PayPal][pay-link].
+
 ![The PA Model](https://c1.staticflickr.com/5/4811/39820430443_0c443ea7cc_h.jpg)
 
 [article-link]: http://www.academia.edu/37370439/Of_Chickens_and_Coyotes_a_poets_take_on_the_physician_assistant
 [IAPAE-link]: https://iapae.com/
 [IAPA-link]:  http://www.iapaonline.org/
 [film-link]: https://mosthustleanddesire.github.io/as_good_as_you_can/
+[pay-link]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4EMQHUTX7XHHA&currency_code=USD&source=url
