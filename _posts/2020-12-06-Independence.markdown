@@ -4,4 +4,4 @@ title: "Independence"
 author: Adam Halbur
 ---
 
-![Independence](https://www.flickr.com/photos/158411238@N02/50754197811/in/dateposted-public/)
+![Independence](https://live.staticflickr.com/65535/50754197811_ba85a5b111_k.jpg)
