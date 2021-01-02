@@ -30,9 +30,7 @@ The workshop is void…
 The ember beneath the ash, fading, lives on loss.  
 
 ----------------------------------
-*Translated from Part I of Andrei Platonov's only book of poems,* [Blue Depths][blue-link]*, which is now complete! Parts II and III are on the way, hopefully (as I aim for the cosmos), in book form.*
-
-*All work is self-funded, so please donate at* [PayPal][pay-link].
+*Translated from Part I of Andrei Platonov's only book of poems,* [Blue Depths][blue-link].
 
 ![](https://c1.staticflickr.com/5/4805/46414190232_58acc538dd_k.jpg)
 

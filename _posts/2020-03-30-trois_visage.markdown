@@ -9,6 +9,3 @@ author: Adam Halbur
 ![Visage 2](https://live.staticflickr.com/65535/49715835262_31b282e465.jpg)
 
 ![Visage 3](https://live.staticflickr.com/65535/49715517531_4b74a0bc1b.jpg)
-
-
-*Rough and imperfect drawings done over the years, but...*
