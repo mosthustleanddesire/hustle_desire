@@ -35,4 +35,3 @@ The ember beneath the ash, fading, lives on loss.
 ![](https://c1.staticflickr.com/5/4805/46414190232_58acc538dd_k.jpg)
 
 [blue-link]: http://www.academia.edu/37060986/Blue_Depths
-[pay-link]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4EMQHUTX7XHHA&currency_code=USD&source=url

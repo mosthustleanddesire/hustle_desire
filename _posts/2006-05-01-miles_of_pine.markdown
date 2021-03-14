@@ -10,6 +10,6 @@ author: Adam Halbur, reviewer
 
 ---------------------------
 
-*The only words I remember from an audit of a high-value home, a house worth anywhere from $500,000 into the millions. The new 5000+ square-foot home with floor-to-ceiling stone fireplace and three-car garage in Wisconsin, a state in which over 30 percent of households were renters in 2017, was an urbanite's vacation retreat. Perhaps the owner was trying to emulate the lumber robber barons of the 1800s, when "[t]he amount of pine harvested from the Black River Valley alone," according to the Wisconsin Historical Society [website][website-link]," could have built a boardwalk nine feet wide and four inches thick around the entire world." What would it have been like to walk beneath those 300-year-old trees?*
+*The only words I remember from an audit of a high-value home, a house worth anywhere from $500,000 into the millions. The new 5000+ square-foot home with floor-to-ceiling stone fireplace and three-car garage in Wisconsin. In the time of the lumber robber barons of the 1800s, "[t]he amount of pine harvested from the Black River Valley alone," according to the Wisconsin Historical Society [website][website-link]," could have built a boardwalk nine feet wide and four inches thick around the entire world." What would it have been like to walk beneath those 300-year-old trees?*
 
 [website-link]: https://www.wisconsinhistory.org/Records/Article/CS409

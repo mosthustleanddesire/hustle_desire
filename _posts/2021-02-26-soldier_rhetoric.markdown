@@ -6,7 +6,7 @@ author: Adam Halbur
 
                                 Ow, fuck!  
 Fuckity fuck fuck! You two-faced fuckers,  
-General King, General Strong, how’d you like  
+Commander King, General Strong, how’d you like  
 to be fodder to this festering for as long as I?!  
 Fuck me!  
 
