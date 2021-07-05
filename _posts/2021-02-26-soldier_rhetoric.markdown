@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rhetoric of the Soldier"
+title:  "Falling into the Rhetoric of Frustration"
 author: Adam Halbur
 ---
 
